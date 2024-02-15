@@ -1,0 +1,30 @@
+Standarden for et jernbanespor i USA, altså afstanden mellem de to skinner, er 4 fod, 8,5 tommer, hvilket svarer til ca 144 cm.
+Dette er et ualmindeligt sært specifikt tal. Hvorfor valgte man netop denne afstand, og ikke f.eks. en heltallig afstand, enten i det imperiske (fod/tommer) eller metriske (meter/cm) system?
+
+Jo, ser du, det er fordi det var sådan man byggede jernbanespor i England, og de første jernbaner i USA blev designet af engelske ingeniører.
+Men hvorfor byggede englænderne dem sådan?
+
+Fordi de første jernbanespor blev bygget af de samme folk som byggede hestevognenes vognbaner, og det var den afstand de brugte.
+Så, hvorfor brugte "de" den afstand?
+
+Fordi de folk som byggede vognbanerne brugte de samme svejserammer og værktøjer som de havde brugt til at bygge hestevognene, som havde den samme afstand mellem hjulene.
+Hvorfor havde hestevognene den specifikke underlige hjulafstand?
+
+Jo, altså, hvis de prøvede at bruge enhver anden afstand ville vognhjulene tiere gå i stykker på en del af de gamle langdistance landeveje i England. De havde nemlig hjulspor indbygget med netop den afstand.
+Men hvem byggede dog de gamle hjulsporindfattede veje?
+
+Det Romerske Imperium byggede de første langdistance landeveje i Europa (inklusiv England) til deres legionærer. De veje har været i brug lige siden dengang.
+Og hvad så med hjulsporene i vejene?
+De romerske stridsvogne gav den prioriterede afstand til de oprindelige spor, som alle andre måtte følge hvis de ikke ville risikere at få deres vognhjul ødelagt.
+Eftersom stridsvognene var standardiserede i det Romerske Imperium, var de alle ens mht afstanden mellem deres hjul.
+Derfor er standarden for et jernbanespor i USA, altså afstanden mellem de to skinner, sat til netop 4 fod, 8,5 tommer, hvilket svarer til ca 144 cm, som en afledning fra de oprindelige specifikationer for en stridsvogn fra det Romerske Imperium.
+Imperier forgår, men bureaukratier lever evigt.
+
+Så næste gang du får udleveret en specifikation/procedure/proces og undrer dig over om den er udtænkt af røven på en hest, så har du måske helt ret: Stridsvognene i det Romerske Imperies hære blev skabt netop brede nok til at man kunne spænde to stridsheste for, altså med en afstand mellem hjulene på to hesterøve. 
+
+Men nu må jeg afsløre at der er et twist til afslutningen på denne historie:
+For når du ser en Space Shuttle stå klar på sin affyrringsrampe er der to store booster raketter opspændt på siderne af den primære brændstoftank. Disse kaldes "solid rocket boosters", forkortet SRB’er. SRB’erne bliver fabrikeret af Thiokol på deres fabrik i Utah. Ingeniørerne som designede SRB’erne ville have foretrukket at gøre dem lidt bredere, men SRB’erne måtte nødvendigvis transporteres på godstog fra fabrikken til affyringsrampen. Jernbanelinjen fra fabrikken går tilfældigvis gennem en tunnel i bjergene, og SRB’erne måtte passe til at kunne komme gennem den tunnel. Tunnellen er kun en smugle bredere end jernbanesporet, og jernbanesporet er, som du nu ved, omtrent så bredt som to hestes bagdele.
+
+Så, et vigtigt aspekt af designet på Space Shuttles, som man kan argumentere for er verdens mest avancerede transportsystem, blev besluttet for mere end 2000 år siden af breden på en hesterøv.
+
+Så du troede ikke det var vigtigt at være røven på en hest? Næsten alt i verden bliver styret af oldgamle hesterøve.
