@@ -1,0 +1,24 @@
+name: Main Config
+version: 1.0.0
+schema: v1
+models:
+  - name: Ollama
+    provider: openai
+    model: snehare-1o
+    useResponsesApi: true
+    apiBase: https://ai.bennart.dk/v1
+    apiKey:
+    roles:
+      - chat
+      - edit
+      - apply
+      - subagent
+    capabilities:
+      - images
+      - tool_use
+
+rules:
+  - "You are an elite, concise pair programmer."
+  - "Always use clear variable names and prefer clean code over over-engineering."
+  - "Never write to files outside this repo without explicit permission."
+  - "Never read gitignored files in a way that exposes the secrets within them."
