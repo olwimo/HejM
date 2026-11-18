@@ -14,7 +14,7 @@ models:
       - apply
       - subagent
     capabilities:
-      - images
+      - image_input
       - tool_use
 
 rules:
