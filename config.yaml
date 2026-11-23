@@ -4,7 +4,7 @@ schema: v1
 models:
   - name: Ollama
     provider: openai
-    model: snehare-1o
+    model: o1-snehare
     useResponsesApi: true
     apiBase: https://ai.bennart.dk/v1
     apiKey:
