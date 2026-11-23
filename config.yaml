@@ -2,7 +2,7 @@ name: Main Config
 version: 1.0.0
 schema: v1
 models:
-  - name: Ollama
+  - name: Snehare
     provider: openai
     model: o1-snehare
     useResponsesApi: true
